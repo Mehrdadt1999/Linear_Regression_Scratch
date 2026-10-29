@@ -4,4 +4,5 @@ In this project we are going to build Linear regression from scratch and learn h
 The list of subjects that we will implement are:   
 1. linear regression
 2. gradient descent 
-3.
+
+the dataset link is `https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques`
